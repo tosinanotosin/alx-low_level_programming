@@ -12,7 +12,7 @@
  */
 
 
-int main(viod)
+int main (void)
 {
 	int n;
 
@@ -26,7 +26,7 @@ int main(viod)
 	}
 	else if (n == 0)
 	{
-	printf(%d is zero/n", n);
+	printf("%d is zero/n", n);
 	}
 	else 
 	{
@@ -34,4 +34,3 @@ int main(viod)
 	}
 	return (0);
 }	
-
