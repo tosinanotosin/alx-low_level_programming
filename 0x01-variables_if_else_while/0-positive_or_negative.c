@@ -12,7 +12,7 @@
  */
 
 
-int main (viod)
+int main(viod)
 {
 	int n;
 
